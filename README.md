@@ -9,7 +9,7 @@ Veri basitçe bilgi demektir. Unutmayın ki **“Her bilgi bir veridir lakin her
 
 ![Veri-nedir](https://user-images.githubusercontent.com/83331577/186931067-60733994-d513-4467-ab26-00ca0e51e56d.jpg)
 
-Veri Bilimi Nedir?
+**Veri Bilimi Nedir?**
 
 Veri bilimini matematik, iş bilgisi ve bilgisayar bilimleri oluşturur. Basit olarak veri bilimi, elinizde olan verilerden bir değer ve istatistik elde etmektir.
 
