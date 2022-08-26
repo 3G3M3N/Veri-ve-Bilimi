@@ -18,3 +18,11 @@ Veri bilimini matematik, iş bilgisi ve bilgisayar bilimleri oluşturur. Basit o
 **Nasıl Veri Bilimci olunur?**
 
 Veri bilimci olmak için belirli teknolojiler, programlar, programlama ve veri tabanı dillerini bilmek gerekli. Şu programlama dili, bu program diye belirtmek çok doğru değil, esneklik gösteriyor. Size söyleyeceklerim ise genelde kullanılanlar.
+
+**Programlama Dilleri: Python, R, Java, Scala, C++, Julia, Matlab**
+
+Programlar: SAP, SPSS, Excel
+
+Veri Tabanı Dilleri: SQL, NoSQL, Oracle
+
+Teknolojiler derken ise Makine Öğrenmesi, Derin Öğrenme, Bilgisayarlı Görü gibi şeylerden bahsediyorum. Aslında onlar için ayrı bir yazı yazılmalı, veri çok geniş bir konu. Son zamanlarda makine öğrenmesi mühendisliği, derin öğrenme mühendisliği gibi ayrı bir meslek grubu olarak bile tanımlanıyorlar.
