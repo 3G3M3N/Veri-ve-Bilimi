@@ -15,7 +15,7 @@ Veri bilimini matematik, iş bilgisi ve bilgisayar bilimleri oluşturur. Basit o
 
 ![1-2-e1585215346554](https://user-images.githubusercontent.com/83331577/186931290-2d029171-5671-4ab4-9827-eeab8b4c1742.png)
 
-**Nasıl Veri Bilimci olunur?**
+**Nasıl Veri Bilimci Olunur?**
 
 Veri bilimci olmak için belirli teknolojiler, programlar, programlama ve veri tabanı dillerini bilmek gerekli. Şu programlama dili, bu program diye belirtmek çok doğru değil, esneklik gösteriyor. Size söyleyeceklerim ise genelde kullanılanlar.
 
