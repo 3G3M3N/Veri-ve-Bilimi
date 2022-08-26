@@ -5,6 +5,7 @@ Herkes illaki bir yerde duymuştur Veri Bilimi, Data Science. Duyunca herkesin k
 
 **Veri Nedir?**
 
-Veri basitçe bilgi demektir. Unutmayın ki “Her bilgi bir veridir lakin her veri bir bilgi değildir.” burada ne demek istediğimi gelecek zamanlarda detaylı olarak anlatacağım.
+Veri basitçe bilgi demektir. Unutmayın ki **“Her bilgi bir veridir lakin her veri bir bilgi değildir.”** burada ne demek istediğimi gelecek zamanlarda detaylı olarak anlatacağım.
 
-![Veri-nedir](https://user-images.githubusercontent.com/83331577/186930166-6533d8be-f268-470c-b7f7-ac7d817c0c35.jpg)
+![Veri-nedir](https://user-images.githubusercontent.com/83331577/186931067-60733994-d513-4467-ab26-00ca0e51e56d.jpg)
+
