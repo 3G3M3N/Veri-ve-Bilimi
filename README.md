@@ -50,3 +50,5 @@ Eşit Ağırlık: Yönetim Bilişim Sistemleri, Ekonomi, Ekonometri, İktisat, �
 Kısacası bilgisayar ile ilgili bölümler denebilir. Söylediğim gibi çok da bir önemi yok okuduğunuz bölümün.
 
 Daha detaylı bilgi için iş ilanlarında ne istendiğine bakabilirsiniz.
+
+![194256-82855996](https://user-images.githubusercontent.com/83331577/187017708-5faa6119-cbeb-4efc-a95c-488dd6d24b6f.jpg)
