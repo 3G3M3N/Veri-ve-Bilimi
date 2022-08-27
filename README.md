@@ -38,3 +38,15 @@ Daha detaylı bilgi için iş ilanlarında ne istendiğine göz atabilirsiniz.
 Öncelikle bilişim sektöründe ne, nereden mezunsun gibi şeyler yavaş yavaş son buluyor, tabii ki de önemli şeyler ama artık pek önemsenmiyor , bu yüzden alakasız bir bölümden mezun olabilir ya da hiç okumamış bile olabilirsiniz. Tabii ki de diploma sizi öne çıkartır lakin bunu belirtmek istedim.
 
 Veri biliminin ne olduğunu açıklarken bazı alanların kesişimi olduğunu söylemiştim. Çoğunlukla o alanlardan mezun kişiler bu sektörde çalışıyor.
+
+Mühendislik Bölümleri: Dediğim gibi bilişim sektöründe ne mezunu olduğunuz artık pek önemli değil, her hangi bir mühendislik mezunu bile olsanız bu sektörde çalışabilirsiniz, spesifik olarak ise Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik Mühendisliği, Makine Mühendisliği, Mekatronik Mühendisliği, Endüstri Mühendisliği ve Matematik Mühendisliği en ilgili mühendislik bölümleri denebilir.
+
+Diğer İlgili Bölümler:
+
+Sayısal: İstatistik, Matematik, Bilgisayar Bilimleri, Bilgisayar Öğretim Teknolojileri Öğretmenliği, Bilgisayar Teknolojileri ve Bilişim Sistemleri, İstatistik ve Bilgisayar Bilimleri, Matematik ve Bilgisayar Bilimleri
+
+Eşit Ağırlık: Yönetim Bilişim Sistemleri, Ekonomi, Ekonometri, İktisat, İşletme
+
+Kısacası bilgisayar ile ilgili bölümler denebilir. Söylediğim gibi çok da bir önemi yok okuduğunuz bölümün.
+
+Daha detaylı bilgi için iş ilanlarında ne istendiğine bakabilirsiniz.
