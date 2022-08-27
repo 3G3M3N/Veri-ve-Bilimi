@@ -55,4 +55,4 @@ Daha detaylı bilgi için iş ilanlarında ne istendiğine bakabilirsiniz.
 
 Daha değinecek çok şey var ama bunları bir kerede okumaya sıkılırsınız, devamı gelecek!
 
-Kaynakça: Vikipedi: https://tr.wikipedia.org/wiki/Anasayfa
+Kaynakça: Vikipedi: https://tr.wikipedia.org/wiki/Anasayfa, https://www.veribilimiokulu.com/
