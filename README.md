@@ -26,3 +26,5 @@ Programlar: SAP, SPSS, Excel
 Veri Tabanı Dilleri: SQL, NoSQL, Oracle
 
 Teknolojiler derken ise Makine Öğrenmesi, Derin Öğrenme, Bilgisayarlı Görü gibi şeylerden bahsediyorum. Aslında onlar için ayrı bir yazı yazılmalı, veri çok geniş bir konu. Son zamanlarda makine öğrenmesi mühendisliği, derin öğrenme mühendisliği gibi ayrı bir meslek grubu olarak bile tanımlanıyorlar.
+
+Veri biliminin de alt dalları var. Her sektörde ve meslekte bu tarz şeyler var ama bilgisayar sektörü en fazla alt dalı olan sektör denilebilir. Eskiden ne iş yapıyorsun denince bilgisayar mühendisiyim denirdi 10-20 yıl sonra ise makine öğrenmesi mühendisiyim, bilgisayarlı görü mühendisiyim gibi şeylere alışacağız. Eskiden dediğime bakmayın günümüzde de bilgisayar mühendisiyim deniyor çünkü çoğu kişi karşısındakinin aklını karıştırmak istemediğinden öyle diyor, yoksa o da biliyor “ben senior back-end developerım” demeyi ama işte olay karşıdaki kişinin anlaması
