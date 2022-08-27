@@ -55,4 +55,4 @@ Daha detaylı bilgi için iş ilanlarında ne istendiğine bakabilirsiniz.
 
 Daha değinecek çok şey var ama bunları bir kerede okumaya sıkılırsınız, devamı gelecek!
 
-
+Kaynakça: Vikipedi: Özgür Ansiklopedi (wikipedia.org), Veri Bilimi Okulu – Veriye Dair Her Şey
