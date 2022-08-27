@@ -29,4 +29,6 @@ Teknolojiler derken ise Makine Öğrenmesi, Derin Öğrenme, Bilgisayarlı Gör�
 
 Veri biliminin de alt dalları var. Her sektörde ve meslekte bu tarz şeyler var ama bilgisayar sektörü en fazla alt dalı olan sektör denilebilir. Eskiden ne iş yapıyorsun denince bilgisayar mühendisiyim denirdi 10-20 yıl sonra ise makine öğrenmesi mühendisiyim, bilgisayarlı görü mühendisiyim gibi şeylere alışacağız. Eskiden dediğime bakmayın günümüzde de bilgisayar mühendisiyim deniyor çünkü çoğu kişi karşısındakinin aklını karıştırmak istemediğinden öyle diyor, yoksa o da biliyor “ben senior back-end developerım” demeyi ama işte olay karşıdaki kişinin anlaması
 
+Daha detaylı bilgi için iş ilanlarında ne istendiğine göz atabilirsiniz.
+
 ![yazilim-nedir-1](https://user-images.githubusercontent.com/83331577/187017661-8f205fb2-d90e-4476-9fa9-da1ae4d8d6aa.jpg)
