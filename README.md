@@ -32,3 +32,9 @@ Veri biliminin de alt dalları var. Her sektörde ve meslekte bu tarz şeyler va
 Daha detaylı bilgi için iş ilanlarında ne istendiğine göz atabilirsiniz.
 
 ![yazilim-nedir-1](https://user-images.githubusercontent.com/83331577/187017661-8f205fb2-d90e-4476-9fa9-da1ae4d8d6aa.jpg)
+
+**Veri Bilimciler Ne Mezunudur?**
+
+Öncelikle bilişim sektöründe ne, nereden mezunsun gibi şeyler yavaş yavaş son buluyor, tabii ki de önemli şeyler ama artık pek önemsenmiyor , bu yüzden alakasız bir bölümden mezun olabilir ya da hiç okumamış bile olabilirsiniz. Tabii ki de diploma sizi öne çıkartır lakin bunu belirtmek istedim.
+
+Veri biliminin ne olduğunu açıklarken bazı alanların kesişimi olduğunu söylemiştim. Çoğunlukla o alanlardan mezun kişiler bu sektörde çalışıyor.
